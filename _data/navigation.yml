@@ -1,10 +1,12 @@
 # main links
 main:
 
-  - title: "강화학습"
-    url: https://ydy-dyd-y.github.io/first/
-  - title: "Bayesian"
-    url: https://ydy-dyd-y.github.io/first/
+  - title: "Introduce"
+    url: /about/
+  - title: "Category"
+    url: "/categories/"
+  - title: "Tags"
+    url: /tags/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
